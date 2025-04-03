@@ -1,6 +1,7 @@
 # Práctica de Particionado de Discos en Ubuntu 22.04
 
 - Montar discos en VirtualBox
+  
 ![imagen](/Imagenes/1.png)
 
 ![imagen](/Imagenes/2.png)
